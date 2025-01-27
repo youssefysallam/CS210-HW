@@ -1,0 +1,18 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+The project is about using WordNet, which is basically like a big dictionary that shows how English words are related to each other as well as giving their definitions. The project asks to create a program that is able to link two words together based on their meaning or a connection they might have. For example, WordNet knows a 'poodle' and a 'golden retriever' are both part of 'dogs' therefore the program would make the link between 'poodle' and 'golden retriever'. To do this the system must be able to recognize and manage groups of related words and their connections, find the closest common meaning between two words, and determine which word in a group is an "outcast" (doesn't share the same pattern as the others in a group).  
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+ N/A
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+N/A
